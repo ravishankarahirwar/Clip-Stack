@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources tools:ignore="MissingTranslation" xmlns:tools="http://schemas.android.com/tools">
 
-    <string name="app_name">Clip Stack</string>
+    <string name="app_name">Copy History</string>
     <string name="clip_notification_title">%1$s</string>
     <string name="clip_notification_copy_button">Copy</string>
     <string name="clip_notification_share_button">Share</string>
@@ -10,7 +10,7 @@
     <string name="clip_notification_text">Expand to show more.</string>
     <string name="clip_notification_single_text">Click to add text.</string>
     <string name="share_clipboard_to">Share text to…</string>
-    <string name="title_activity_main">"Clip Stack"</string>
+    <string name="title_activity_main">"Copy History"</string>
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
     <string name="action_search">Search</string>
@@ -43,7 +43,7 @@
     <string name="pref_storage_summary_infinite">Remember clipboards forever.</string>
     <string name="pref_storage_summary_days">Remember clipboards for %d days.</string>
     <string name="title_activity_editor">New Clip</string>
-    <string name="first_launch_clipboards_0">Welcome to Clip Stack. %1$s</string>
+    <string name="first_launch_clipboards_0">Welcome to Copy History. %1$s</string>
     <string name="first_launch_clipboards_1">It can show clipboard history in notification.</string>
     <string name="first_launch_clipboards_2">Click here %1$s to edit.</string>
     <string name="first_launch_clipboards_3">%1$s Swipe to delete. %2$s</string>
@@ -54,7 +54,7 @@
     <string name="dialog_ok">OK</string>
     <string name="dialog_cancel">Cancel</string>
     <string name="toast_undo">Undo</string>
-    <string name="backup_file_name">"Clip Stack Backup "</string>
+    <string name="backup_file_name">"Copy History Backup "</string>
     <string name="backup_file_name_old">"Clipping Now Backup "</string>
     <string name="action_export">Export</string>
     <string name="action_import">Import</string>
@@ -100,7 +100,7 @@
     <string name="toast_service_temporary_resume">Service resumed.</string>
     <string name="pref_floating_button">Floating Button</string>
     <string name="pref_floating_button_summary">Show floating button on screen.</string>
-    <string name="accessibility_service_description" >Enable this service to get more feature:\n\n• Clip Stack will not be killed by system when RAM is not enough.\n• Show floating button of clipboards when typing on Android Lollipop +. (Not support browsers yet)\n• More features are coming soon.</string>
+    <string name="accessibility_service_description" >Enable this service to get more feature:\n\n• Copy History will not be killed by system when RAM is not enough.\n• Show floating button of clipboards when typing on Android Lollipop +. (Not support browsers yet)\n• More features are coming soon.</string>
     <string name="pref_ping_floating_button">When to Show</string>
     <string name="pref_ping_floating_button_summary_always">Always show on screen.</string>
     <string name="pref_ping_floating_button_summary_typing">Only show when typing. (Not support browsers yet)</string>

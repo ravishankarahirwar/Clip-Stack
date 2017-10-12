@@ -62,7 +62,7 @@
     <string name="toast_no_saved">未保存</string>
     <string name="toast_saved">已保存</string>
     <string name="toast_undo">還原</string>
-    <string name="backup_file_name_old">"Clip Stack Backup "</string>
+    <string name="backup_file_name_old">"Copy History Backup "</string>
     <string name="dialog_description_are_you_sure">確定嗎?</string>
     <string name="empty_card">無備份</string>
     <string name="progress_importing">匯出……</string>

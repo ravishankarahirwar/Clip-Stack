@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources tools:ignore="MissingTranslation" xmlns:tools="http://schemas.android.com/tools">
 
-    <string name="app_name">Clip Stack</string>
+    <string name="app_name">Copy History</string>
     <string name="clip_notification_title">%1$s</string>
     <string name="clip_notification_copy_button">Kopírovat</string>
     <string name="clip_notification_share_button">Sdílet</string>
@@ -10,7 +10,7 @@
     <string name="clip_notification_text">Zobrazit více.</string>
     <string name="clip_notification_single_text">Kliknout pro přidání textu.</string>
     <string name="share_clipboard_to">Sdílet text do...</string>
-    <string name="title_activity_main">&quot;Clip Stack&quot;</string>
+    <string name="title_activity_main">&quot;Copy History&quot;</string>
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Nastavení</string>
     <string name="action_search">Hledat</string>
@@ -43,7 +43,7 @@
     <string name="pref_storage_summary_infinite">Pamatovat si schránku navždy.</string>
     <string name="pref_storage_summary_days">Pamatovat si schránku %d dny(ů).</string>
     <string name="title_activity_editor">Nový klip</string>
-    <string name="first_launch_clipboards_0">Vítejte v aplikaci Clip Stack. %1$s</string>
+    <string name="first_launch_clipboards_0">Vítejte v aplikaci Copy History. %1$s</string>
     <string name="first_launch_clipboards_1">Umí zobrazit historii schránky v upozorněních.</string>
     <string name="first_launch_clipboards_2">Klikněte sem %1$s pro úpravu.</string>
     <string name="first_launch_clipboards_3">%1$s tažením smazat. %2$s</string>
@@ -54,7 +54,7 @@
     <string name="dialog_ok">OK</string>
     <string name="dialog_cancel">Zrušit</string>
     <string name="toast_undo">Vrátit</string>
-    <string name="backup_file_name">&quot;Záloha Clip Stack&quot;</string>
+    <string name="backup_file_name">&quot;Záloha Copy History&quot;</string>
     <string name="backup_file_name_old">&quot;Provést zálohu &quot;</string>
     <string name="action_export">Export</string>
     <string name="action_import">Import</string>

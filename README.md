@@ -19,7 +19,7 @@ Other Market:
 
 #### Unlimited Clips
 
-📌 Clip Stack can remember all your clipboard history and recover text after reboot. 
+📌 Copy History can remember all your clipboard history and recover text after reboot.
 
 #### Easy to Manage
 
@@ -39,7 +39,7 @@ Other Market:
 
 #### Auto Clean Up
 
-📌 Using Android 🍭Lollipop's new JobScheduler API, Clip Stack can automatic clean up it's catches and RAM when phone is charging. 
+📌 Using Android 🍭Lollipop's new JobScheduler API, Copy History can automatic clean up it's catches and RAM when phone is charging.
 
 #### Other Features
 

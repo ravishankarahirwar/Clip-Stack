@@ -7,14 +7,14 @@
 		Done by Spanti Nicola (RyDroid) in 2015
 	-->
 	
-    <string name="app_name">Clip Stack</string>
+    <string name="app_name">Copy History</string>
     <string name="clip_notification_copy_button">Copier</string>
     <string name="clip_notification_share_button">Partager</string>
     <string name="clip_notification_big_title">Presse-papiers récents</string>
     <string name="clip_notification_text">Étendre pour en voir plus.</string>
     <string name="clip_notification_single_text">Cliquer pour ajouter du texte.</string>
     <string name="share_clipboard_to">Partager le texte avec…</string>
-    <string name="title_activity_main">"Clip Stack"</string>
+    <string name="title_activity_main">"Copy History"</string>
     <string name="hello_world">Bonjour le monde !</string>
     <string name="action_settings">Paramètres</string>
     <string name="action_search">Rechercher</string>
@@ -48,7 +48,7 @@
     <string name="pref_storage_summary_infinite">Conserver tous les presse-papiers.</string>
     <string name="pref_storage_summary_days">Conserver les presse-papiers pendant %d jours.</string>
     <string name="title_activity_editor">Nouveau presse-papier</string>
-    <string name="first_launch_clipboards_0">Bienvenue dans Clip Stack. %1$s</string>
+    <string name="first_launch_clipboards_0">Bienvenue dans Copy History. %1$s</string>
     <string name="first_launch_clipboards_1">Cette app peut montrer l\'historique du presse-papier dans une notification.</string>
     <string name="first_launch_clipboards_2">Cliquez içi %1$s pour éditer.</string>
     <string name="first_launch_clipboards_3">%1$s Swiper pour supprimer. %2$s</string>
@@ -59,7 +59,7 @@
     <string name="dialog_ok">OK</string>
     <string name="dialog_cancel">Annuler</string>
     <string name="toast_undo">Annuler</string>
-    <string name="backup_file_name">"Clip Stack Backup "</string>
+    <string name="backup_file_name">"Copy History Backup "</string>
     <string name="backup_file_name_old">"Clipping Now Backup "</string>
     <string name="action_export">Exporter</string>
     <string name="action_import">Importer</string>
