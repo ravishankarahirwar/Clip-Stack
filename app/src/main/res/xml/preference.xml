@@ -64,20 +64,22 @@
             android:defaultValue="false"
             android:dependency="pref_notification_show" />
     </PreferenceCategory>
-    <PreferenceCategory android:title="@string/pref_about_category">
-        <Preference
-            android:title="@string/pref_about_title"
-            android:summary="@string/pref_about_summary">
-            <intent
-                android:action="android.intent.action.VIEW"
-                android:data="https://goo.gl/dpwozO" />
-        </Preference>
-        <Preference
-            android:title="@string/pref_rate_title"
-            android:summary="@string/pref_rate_summary">
-            <intent
-                android:action="android.intent.action.VIEW"
-                android:data="https://goo.gl/1KigA6" />
-        </Preference>
-    </PreferenceCategory>
+    <!--<PreferenceCategory android:title="@string/pref_about_category">-->
+        <!--<Preference-->
+            <!--android:title="@string/pref_about_title"-->
+            <!--android:enabled="false"-->
+            <!--android:shouldDisableView="false"-->
+            <!--android:summary="@string/pref_about_summary">-->
+            <!--<intent-->
+                <!--android:action="android.intent.action.VIEW"-->
+                <!--android:data="https://goo.gl/dpwozO" />-->
+        <!--</Preference>-->
+        <!--<Preference-->
+            <!--android:title="@string/pref_rate_title"-->
+            <!--android:summary="@string/pref_rate_summary">-->
+            <!--<intent-->
+                <!--android:action="android.intent.action.VIEW"-->
+                <!--android:data="https://goo.gl/1KigA6" />-->
+        <!--</Preference>-->
+    <!--</PreferenceCategory>-->
 </PreferenceScreen>

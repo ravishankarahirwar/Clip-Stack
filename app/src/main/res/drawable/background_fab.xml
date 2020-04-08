@@ -50,7 +50,7 @@
         -->
         <shape android:shape="oval">
             <solid
-                android:id="@+id/fab_color"
+                android:id="@+id/fab_color2"
                 android:color="@color/fab_starred" />
         </shape>
         <!--

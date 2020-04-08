@@ -6,7 +6,7 @@
     android:layout_height="match_parent"
     android:background="@color/background"
     android:animateLayoutChanges="true"
-    tools:context=".MyActivity">
+    tools:context="com.satinpod.copyhistory.ActivityMain">
     <!--
     android:paddingLeft="@dimen/activity_horizontal_margin"
     android:paddingRight="@dimen/activity_horizontal_margin"
@@ -35,7 +35,6 @@
 
             <ImageView
                 android:layout_centerInParent="true"
-                android:src="@drawable/background_main"
                 android:layout_width="180dp"
                 android:layout_height="180dp" />
         </RelativeLayout>
